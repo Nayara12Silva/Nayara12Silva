@@ -2,13 +2,6 @@
 Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
-[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-)](https://wa.me/5519983607624?text=Ol%C3%A1+%F0%9F%91%8B%2C++tudo+bem%3F)
-[![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-)](https://t.me/@Nayara_ackerman)
-
 ![Nayara Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayara12Silva&show_icons=true&theme=dark)
 
 ### TECNOLOGIAS QUE USO:
@@ -49,4 +42,14 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 )]()
 [![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
 )]()
+
+### REDES SOCIAS:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
+[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
+[![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+)](https://wa.me/5519983607624?text=Ol%C3%A1+%F0%9F%91%8B%2C++tudo+bem%3F)
+[![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+)](https://t.me/@Nayara_ackerman)
+
 
