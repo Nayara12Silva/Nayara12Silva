@@ -1,5 +1,7 @@
 ### Olá, Eu sou Nayara Silva ✌️
 Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
+
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
