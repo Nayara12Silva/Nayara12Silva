@@ -1,5 +1,5 @@
 ### Olá, Eu sou Nayara Silva ✌️
-
+Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-de-sousa-silva-425b6b238)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagran.com/nayarade77?igshid=ZDdkNTZiNTM=)
 [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
@@ -9,12 +9,7 @@
 
 ![Nayara Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayara12Silva&show_icons=true&theme=dark)
 
-### SOBRE MIM:
-
-Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
-
-
-### TECNOLOGIAS QUE USO
+### TECNOLOGIAS QUE USO:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 )]()
@@ -30,7 +25,7 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 )]()
 
 
-### TECNOLOGIAS QUE ESTOU ESTUDANDO:
+### TECNOLOGIAS QUE ESTOU ESTUDANDO NO MOMENTO:
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )]()
