@@ -14,8 +14,6 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 )]()
 [![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
 )]()
-[![Express.ja](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge
-)]()
 [![mYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )]()
 
@@ -24,9 +22,9 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-)]()
 [![reactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+)]()
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
 )]()
 [![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
 )]()
