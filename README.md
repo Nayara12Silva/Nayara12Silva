@@ -1,9 +1,6 @@
 ### Olá, Eu sou Nayara Silva ✌️
 Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
 
-
-![Nayara Silva GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayara12Silva&show_icons=true&theme=dark)
-
 ### TECNOLOGIAS QUE USO:
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
@@ -24,13 +21,8 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 )]()
 [![reactNative](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 )]()
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white
-)]()
-[![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white
-)]()
 
 ### TECNOLOGIAS QUE TENHO INTERESSE EM APRENDER:
-
 
 [![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
 )]()
