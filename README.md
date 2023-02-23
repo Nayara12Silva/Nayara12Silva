@@ -14,6 +14,10 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 [![mYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 )]()
 
+<div>
+<a href="https://github.com/Nayara12Silva">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayara12Silva&layout=compact&langs_count=7&theme=algolia"/>
+</div>
 
 ### TECNOLOGIAS QUE ESTOU ESTUDANDO NO MOMENTO:
 
