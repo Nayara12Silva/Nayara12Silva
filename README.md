@@ -1,9 +1,8 @@
 ### Olá, Eu sou Nayara Silva ✌️
 
+![HelloWorld](https://github.com/Nayara12Silva/Nayara12Silva/assets/104741196/309f01b6-7538-4c4b-aa1c-82f983c3808b)
 
-![desktop-wallpaper-programmer-·①-programming](https://user-images.githubusercontent.com/104741196/222930097-d120b8e3-307c-43f2-ada7-2beeb3be2694.jpg)
-
-Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações mobiel Android| IOS.
+Atualmente estou cursando nível Técnico em TI para internet,  curso voltado para o desenvolvimento de páginas web, aplicações Mobile Android| IOS.
 
 ### TECNOLOGIAS QUE USO:
 
