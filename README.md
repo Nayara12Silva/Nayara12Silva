@@ -49,4 +49,7 @@ Atualmente estou cursando nível Técnico em TI para internet,  curso voltado pa
 [![telegran](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
 )](https://t.me/@Nayara_ackerman)
 
-![Snake animation](https://github.com/Nayara12Silva/Nayara12Silva/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/Nayara12Silva/Nayara12Silva/blob/output/github-contribution-grid-snake) -->
+  
+![github-contribution-grid-snake](https://github.com/Nayara12Silva/Nayara12Silva/assets/104741196/38f53742-0560-4364-b8b9-22d3d2823944)
+ 
